@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Java personal blog project
+- 🔭 I’m currently working on a Python personal blog project, with Django web framework. Cause the set up of Java made me so tired.
 - 📫 How to reach me: lunar_ubuntu@qq.com
 - ⚡ Fun fact: I'm still single.
