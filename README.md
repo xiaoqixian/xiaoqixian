@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a Java personal blog project
+- 📫 How to reach me: lunar_ubuntu@qq.com
+- ⚡ Fun fact: I'm still single.
