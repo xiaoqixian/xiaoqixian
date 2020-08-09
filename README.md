@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 |         [Kux](https://github.com/xiaoqixian/Kux.git)         | A multi-threads downloader, kind of weak.                    |
 |  [Chandelier](https://github.com/xiaoqixian/Chandelier.git)  | An ORM framework written in Java.                            |
 | [Kaleidoscope](https://github.com/xiaoqixian/Kaleidoscope.git) | Kaleidoscope includes many things, all are computer science notes. Recently I'm learning database, most of them are not updated for a long time. Recently I'm learning database, so database directory is the one that get updated. Also, some contents in this repository may get overlapped with other repositories. |
+|     [Network](https://github.com/xiaoqixian/Network.git)     | Computer Network Notes. Just finished a book about HTTP protocol, study notes are in http directory. Currently I am reading the source code of KCP protocol, source code analysis will be put in kcp protocol. |
 
