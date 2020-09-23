@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a Python personal blog project, with Django web framework. Cause the set up of Java made me so tired.
+- 🔭 I’m currently learning C++ and reading source code of [muduo](https://github.com/xiaoqixian/muduo).
 - 📫 How to reach me: lunar_ubuntu@qq.com
 - ⚡ Fun fact: I'm still single.
 - 💬 Ask me about JOJO's Bizarre Adventure, big fan.
