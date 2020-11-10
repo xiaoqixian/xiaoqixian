@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoqixian&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqixian&exclude_repo=xiaoqixian.github.io,Kaleidoscope,Linux,Arrow)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqixian&layout=compact&exclude_repo=xiaoqixian.github.io,Kaleidoscope,Linux,Arrow,Cpp,PythonDataScienceHandbook,Java,Python,github-corners,REKCARC-TSC-UHT,durant35.github.io,blog)
 
 #### Repositories Guide
 
