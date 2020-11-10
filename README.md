@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="xiaoqixian.github.io.com" width="22px" src="https://pic.downk.cc/item/5f82a15a1cd1bbb86b319a44.png" />](https://xiaoqixian.github.io.com)
 [<img align="left" alt="xiaoqixian | YouTube" width="22px" src="https://pic.downk.cc/item/5f82a6311cd1bbb86b33fbde.png" />](https://www.youtube.com/channel/UCHWEmuAss5elGsetWALKDSA
 )
-[<img align="left" alt="少女装甲战士 | bilibili" width="22px" src="https://pic.downk.cc/item/5f82a6ce1cd1bbb86b343c34.png" />](https://m.bilibili.com/space/397081920)
-[<img align="left" alt="LunarEclipse | Twitter" width="22px" src="https://pic.downk.cc/item/5f82a6171cd1bbb86b33f054.png" />](https://twitter.com/LunarEc16423064)
+[<img align="left" alt="Kaleidopink | bilibili" width="22px" src="bilibili.png" />](https://m.bilibili.com/space/397081920)
+[<img align="left" alt="LunarEclipse | Twitter" width="22px" src="twitter.png" />](https://twitter.com/LunarEc16423064)
 [<img align="left" alt="xiaoqixian | Instagram" width="22px" src="https://pic.downk.cc/item/5f82a6541cd1bbb86b340bbf.png" />](https://instagram.com/xiaoqixian68)
 
 <br />
