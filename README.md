@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### Github Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoqixian&show_icons=true&theme=dracula)
 
 #### Connect with me:
 
