@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoqixian&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqixian)](https://github.com/xiaoqixian/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqixian&exclude_repo=xiaoqixian.github.io,Kaleidoscope,Linux,Arrow)
 
 #### Repositories Guide
 
