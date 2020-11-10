@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm still single.
 - 💬 Ask me about JOJO's Bizarre Adventure, big fan.
 
+#### Github Stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
 #### Connect with me:
 
 [<img align="left" alt="xiaoqixian.github.io.com" width="22px" src="https://pic.downk.cc/item/5f82a15a1cd1bbb86b319a44.png" />](https://xiaoqixian.github.io.com)
