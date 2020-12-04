@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 #### Connect with me:
 
+[<img align="left" alt="xiaoqixian website" width="22px" src="blog.png"/>](https://cnblogs.com/lunar_ubuntu)
 [<img align="left" alt="xiaoqixian.github.io.com" width="22px" src="https://pic.downk.cc/item/5f82a15a1cd1bbb86b319a44.png" />](https://xiaoqixian.github.io.com)
 [<img align="left" alt="xiaoqixian | YouTube" width="22px" src="https://pic.downk.cc/item/5f82a6311cd1bbb86b33fbde.png" />](https://www.youtube.com/channel/UCHWEmuAss5elGsetWALKDSA
 )
