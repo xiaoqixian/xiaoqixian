@@ -22,13 +22,8 @@ Here are some ideas to get you started:
 #### Connect with me:
 
 [<img align="left" alt="xiaoqixian website" width="22px" src="https://i.loli.net/2020/12/28/FvzcRlWC4YNuMdw.png"/>](https://cnblogs.com/lunar_ubuntu)
-[<img align="left" alt="xiaoqixian.github.io.com" width="22px" src="https://pic.downk.cc/item/5f82a15a1cd1bbb86b319a44.png" />](https://xiaoqixian.github.io.com)
-[<img align="left" alt="xiaoqixian | YouTube" width="22px" src="https://pic.downk.cc/item/5f82a6311cd1bbb86b33fbde.png" />](https://www.youtube.com/channel/UCHWEmuAss5elGsetWALKDSA
-)
 [<img align="left" alt="Kaleidopink | bilibili" width="22px" src="https://i.loli.net/2020/12/28/p5KUvInkWACt2jJ.png" />](https://m.bilibili.com/space/397081920)
 [<img align="left" alt="LunarEclipse | Twitter" width="22px" src="https://i.loli.net/2020/12/28/vVTqN5g7ABY4C6L.png" />](https://twitter.com/LunarEc16423064)
-[<img align="left" alt="xiaoqixian | Instagram" width="22px" src="https://pic.downk.cc/item/5f82a6541cd1bbb86b340bbf.png" />](https://instagram.com/xiaoqixian68)
-
 <br />
 
 #### Github Stats
