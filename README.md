@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 #### Connect with me:
 
-[<img align="left" alt="xiaoqixian website" width="22px" src="https://i.loli.net/2020/12/28/FvzcRlWC4YNuMdw.png"/>](https://cnblogs.com/lunar_ubuntu)
-[<img align="left" alt="Kaleidopink | bilibili" width="22px" src="https://i.loli.net/2020/12/28/p5KUvInkWACt2jJ.png" />](https://m.bilibili.com/space/397081920)
 [<img align="left" alt="LunarEclipse | Twitter" width="22px" src="https://i.loli.net/2020/12/28/vVTqN5g7ABY4C6L.png" />](https://twitter.com/LunarEc16423064)
 <br />
 
