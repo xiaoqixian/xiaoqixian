@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 |                          Repository                          | Description                                                  |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
+|       [buffer-explorer](https://github.com/xiaoqixian/buffer-explorer.nvim.git) | buffer-explorer.nvim is neovim plugin to manage your buffers |
 |       [Armor](https://github.com/xiaoqixian/Armor.git)       | Armor is a python virtual machine. It is written in c++.<br>And it helps know about some underlying implementation of Python, really helpful. |
 |     [Railgun](https://github.com/xiaoqixian/Railgun.git)     | Railgun is a http web server which is totally written in C language. It's technology stack includes TCP/IP protocols, epoll, multi-threads, etc.<br>But it is with a weak http url parser, so that is the part that need to get improved. |
 |        [Mono](https://github.com/xiaoqixian/Mono.git)        | Mono is a virtual linux-like filesystem which is also written in C.<br>This system writes everything into a file, includes super inode information, inodes, blocks, etc. <br>But the project is not finished yet, the last part: edit things by vim editor and write changes into the system file is not achieved. |
