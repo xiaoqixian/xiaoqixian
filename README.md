@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lunar_ubuntu@qq.com
 - ⚡ Fun fact: I'm still single.
 
-#### Connect with me:
-
-[<img align="left" alt="LunarEclipse | Twitter" width="22px" src="https://i.loli.net/2020/12/28/vVTqN5g7ABY4C6L.png" />](https://twitter.com/LunarEc16423064)
-<br />
-
 #### Github Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoqixian&show_icons=true&theme=dracula)
